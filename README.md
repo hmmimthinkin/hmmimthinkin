@@ -1,5 +1,6 @@
 💫.    ‘.  .      .   
-‎‏　.⠀　　🪐⠀‍. ⠀⠀✦⠀ ⠀⠀°⠀⠀⠀ ⠀⠀☄️ ⠀ ⠀⠀⠀⠀⠀⠀　　　　　.　　　　　.　　　　　　　　💫　　　°　　　　. 　　　‘　　.　　　✦ 　　　　　,　　　.        ‘.    .   *.        , ‘
+‎‏　.⠀　　🪐⠀‍. ⠀⠀✦⠀ ⠀⠀°⠀⠀⠀ ⠀⠀☄️ ⠀ ⠀⠀⠀⠀⠀⠀　　　　　.　　　　　.　　　　　　
+💫　　　°　　　　. 　　　‘　　.　　　✦ 　　　　　,　　　.        ‘.    .   *.        , ‘
 ‎‏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🛸.     :    ;     ‘ .
 　*　　🌞　　°　　*　　. 　　　   　　✦　　　　　　*
 ‎‏　　👾　　*　⠀.⠀　🪐.⠀  　　,　　💫　　🛰️
@@ -9,22 +10,17 @@
 　　　°　　.　.
 　　🌜　　　　　🚀
 ‎.‏　　　　　　　　　ﾟ　　　　　　　🌎⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍,👾.                        
-‎.‏　　　*　　⠀. 
-‎‏　　　　　.　　　　,　　　⚫️　　　‘⠀
-　˚　　　*
-‎‏.⠀ 　　　　　🛰️　✦　　
+‎.‏　　　*　　⠀. 　　　.　　　　,　　　⚫️　　　‘⠀　˚　　　*
+.⠀ 　　　　　🛰️　✦　　
 ‎‏　　✦⠀　.　　　.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☄️         ⠀🚀 ⠀⠀⠀　　.　　　ﾟ .　　　　　　　　　　　　　　　　　　　　　　　✦ 　　　　　　　　　　　💫.
 ‎‏⠀⠀⠀⠀　*　　　　   🌠☀️　　‏.　　　　　　　　　　. 　　✦⠀　   　　　　　　　　*　　　⠀　　,👽
 ‎‏⠀⠀⠀　　⠀　　　*⠀.　        🛸.     .   .   
-　⠀🚀  　　,　　.
-　　　　　　　　　　　　*⠀　.   . 
-　　　　🛰️　　.
-　　　.　　　,　.　　　⠀🌓.     🌠 
-　　　　.
-　　　.　　　　🚀.    .        .      .      
-‎‏　　　ﾟ　　　　　💫.    ‘.  .      .   
+　
 ‎‏　.⠀　　🪐⠀‍.  .   , ‘ .     .   ‘. .  ⭐️　　　 　　 　　　　   　
-
+🛸　.　　•.  　🌎　°　.•　🌓　•　　.°•　　•　🚀 ✯.    •.    .  •. 
+　.　•　★　*　　　　　°　　.　　🛰 　°·　　•.      ๏        .•       🪐
+.　•　•　° ★　•  ☄.       ๏       •.      .  •.      .     •.      .     •. •   
+▁▂▃▄▅▆▇▇▆▅▄▃▂▃▄▆▇▇▆▅▄▇▆▅▄▃▁▂▁▂▃▄▅▆▇▇▆▅▄▃▂▃▄▆▇▇▆▅▄▇▆▅▄▃▁▂▁▂▃▄▅▆▇▇▆▅▄▃▂▃▄▆▇▇▆▅▄▇▆▅▄▃▁▂
 <!--
 **hmmimthinkin/hmmimthinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+wasted+my+time+again+༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+wasted+my+time+again+ദ്ദി(ㅠ﹏ㅠ)" alt="Typing SVG" /></a>
