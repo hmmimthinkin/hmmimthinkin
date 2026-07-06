@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hmmmm+Im+thinkin+.+.+.+.P" alt="Typing SVG" /></a>
+- ⚡ Fun fact: ..-->
+
 
 <p align="center">
   <img src="https://github.com/hmmimthinkin/hmmimthinkin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hmmmm+Im+thinkin+.+.+.+.P" alt="Typing SVG" /></a>
